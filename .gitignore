@@ -1,0 +1,42 @@
+# Compiled source #
+*.class
+*.jar
+*.exe
+*.pyc
+*.pyo
+*.o
+
+# IDEA Maven Eclipse
+.idea
+*.iml
+target/
+.project
+.target
+.classpath
+.settings
+.flattened-pom.xml
+
+# Packages #
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Temporary #
+\#*\#
+.\#*
+*.bak
+*.tmp
+tmp/
+
+# Adresar _info/
+_info/out
+_info/~*
+
+# GWT 
+overlays/ 

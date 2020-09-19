@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Hop",
+  "type": "object",
+  "hopName": {
+    "type": "string",
+    "description": "The hop's name."
+  },
+  "acids": {
+    "type": "number",
+    "description": "The hop's approximately alpha acids."
+  }
+}

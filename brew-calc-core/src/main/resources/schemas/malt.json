@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Malt",
+  "type": "object",
+  "maltName": {
+    "type": "string",
+    "description": "The malt's name."
+  },
+  "ebc": {
+    "type": "number",
+    "description": "The malt's EBC approximately color."
+  }
+}
